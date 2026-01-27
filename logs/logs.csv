@@ -1,0 +1,2 @@
+timestamp,user_id,ticker,amount,best_model,rmse,mape,profit
+2026-01-28 00:03:29,784221258,MSFT,23.0,Скользящее среднее,34.7597429079511,0.06774039557898276,0.0
