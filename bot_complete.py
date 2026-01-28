@@ -33,7 +33,7 @@ from logger import Logger
 # ========== КОНФИГУРАЦИЯ ==========
 
 # ВАЖНО: ЗАМЕНИТЕ ЭТОТ ТОКЕН НА ВАШ!
-TELEGRAM_TOKEN = "8024313537:AAEsjwrk1zWbvYsZr9z-jqiKaFL_Z4OD3Sk"
+TELEGRAM_TOKEN = ""
 
 
 # Инициализация компонентов
